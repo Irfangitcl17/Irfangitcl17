@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📖 I’m currently learning Programming
+
 🏫 I'm studying at Universitas Trunojoyo Madura
+
 ⚙️ My Major Information Systems
+
 💬 Ask me about my study
