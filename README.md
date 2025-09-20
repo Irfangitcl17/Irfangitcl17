@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Mohammad Irfan Hariyono 👋
 
 <!--
 **Irfangitcl17/Irfangitcl17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📖 I’m currently learning Programming
+🏫 I'm studying at Universitas Trunojoyo Madura
+⚙️ My Major Information Systems
+💬 Ask me about my study
