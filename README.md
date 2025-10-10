@@ -50,6 +50,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://blogspot_irfan.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
 </a>
+</br>
 <p>
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
 </p>
