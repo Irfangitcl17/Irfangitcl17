@@ -1,28 +1,5 @@
-## Hi I'm Mohammad Irfan Hariyono 👋
-
-<!--
-**Irfangitcl17/Irfangitcl17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 📖 I’m currently learning Programming
-
-🏫 I'm studying at Universitas Trunojoyo Madura
-
-⚙️ My Major Information Systems
-
-💬 Ask me about my study -->
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+# <summary><strong>Hi there :wave: , I'm Irfan! 👋</strong></summary>
+Lifelong Learner, and keep trying!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
@@ -33,11 +10,14 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
+    - :keyboard: I’m currently learning HTML, CSS, JS, DATABASE. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:irvanhariono278@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Design and writing are part of me. </br>
+    - :man: Pronouns: Her. </br>
+    - :game_die: Design and listening music are part of me. </br>
+    - :school: I'm studying at Universitas Trunojoyo Madura. </br>
+    - :books: My Major Information Systems. </br>
+    - :cloud: Ask me about my study </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
@@ -47,9 +27,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/irfanhryno/?igsh=cG1pejhuYjQ1MDg2#/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://blogspot_irfan.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+</br>
 </br>
 <p>
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
